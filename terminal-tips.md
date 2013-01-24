@@ -11,7 +11,11 @@ Follow the template above and keep appending. Make sure you add your name/link y
 
 ---
 
+**Tip**: !$
 
+**Description**: Execute the last command which was just executed.
+
+---
 
 
 
