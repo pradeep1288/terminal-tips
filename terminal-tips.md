@@ -30,9 +30,17 @@ Follow the template above and keep appending. Make sure you add your name/link y
 
 ---
 
+**Tip**: `rm -f !(file.txt)`
 
+**Description**: Remove all files execpt `file.txt`.
 
+---
 
+**Tip**: `ls -1 | wc -l`
+
+**Description**: Count all files in a directory. 
+
+---
 
 
 
