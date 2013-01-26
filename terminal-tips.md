@@ -42,9 +42,15 @@ Follow the template above and keep appending. Make sure you add your name/link y
 
 ---
 
+**Tip**: `hash`
 
+**Description**: Prints the number of times a command is executed in the current terminal session.
+
+---
 
 
 
 Contributers
 ============
+
+* [Sandeep Raju](http://github.com/sandeepraju/)
